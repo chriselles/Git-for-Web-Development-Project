@@ -6,23 +6,23 @@ This project consists of two parts:
 ## Task 1: Set up Project
 You will need to follow the Lambda School Git Workflow to add a file to this project follow the steps below:
 
-- [ ] Create your own version of this repo - Fork
-- [ ] Add your TL as a collaborator
-- [ ] Clone this repo
-- [ ] Create a branch `git checkout -b 'firstName-lastName'`
-  - [ ] Add a file to the project called `yourFirstName-yourLastName`.txt. This should contain the link to your completed codepen from part 2 as well as the review questions/answers
-  - [ ] Run your usual git commands for adding/committing and pushing **Be sure to push to your branch!**
-- [ ] Create a Pull-Request to submit your work
-  - [ ] Use your own student fork as the base (compare across forks, base-fork -> main).
+- [X ] Create your own version of this repo - Fork
+- [X ] Add your TL as a collaborator
+- [X ] Clone this repo
+- [X ] Create a branch `git checkout -b 'firstName-lastName'`
+  - [X ] Add a file to the project called `yourFirstName-yourLastName`.txt. This should contain the link to your completed codepen from part 2 as well as the review questions/answers
+  - [X ] Run your usual git commands for adding/committing and pushing **Be sure to push to your branch!**
+- [X ] Create a Pull-Request to submit your work
+  - [X] Use your own student fork as the base (compare across forks, base-fork -> main).
   - [ ] Add your TL as a reviewer on the Pull-Request
 - [ ] TL then will count the Assignment as done by merging the HW back into main "STUDENT FORK".
 
 ## Task 2: MVP
-1. fork this codepen https://codepen.io/BritHemming/pen/eYYEoPa?editors=1100
-2. You will be marking up all of the HTML and styling it to look like this: https://codepen.io/BritHemming/full/jONmxOm using CSS
+1. fork this codepen https://codepen.io/BritHemming/pen/eYYEoPa?editors=1100  DONE
+2. You will be marking up all of the HTML and styling it to look like this: https://codepen.io/BritHemming/full/jONmxOm using CSS DONE
 * this should be review from yesterday/ extra practice
-3. After you are finished please copy the review questions into your .txt file and answer them
-4. don't forget to add, commit and push your changes.
+3. After you are finished please copy the review questions into your .txt file and answer them DONE
+4. don't forget to add, commit and push your changes. DONE
 
 ## Task 2b: Exit Ticket
 
